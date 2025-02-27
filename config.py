@@ -73,7 +73,7 @@ old_webpage_addresses = [
 		"https://t.me/s/Awlix_ir",
 		"https://t.me/s/v2rayngvpn",
 		"https://t.me/s/God_CONFIG",
-		"https://t.me/s/Configforvpn01",
+		"https://t.me/madatifreenet",
     "https://t.me/s/v2ray_configs_pool",
     "https://t.me/s/XpnTeam",
     "https://t.me/v2rayNGcloud",
